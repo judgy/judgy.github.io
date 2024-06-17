@@ -1,0 +1,49 @@
+﻿/*body {*/
+/*    color: #ff0000;*/
+/*}*/
+.reveal section.title h1 {
+    font-size: 110%;
+}
+.reveal .smaller p {
+    font-size: 40%;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.reveal .paragraph p {
+    font-size: 70%;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.reveal .content p {
+    font-size: 70%;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.reveal ul {
+    font-size: 100%;
+    list-style: disc;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.reveal li {
+    font-size: 100%;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.reveal li.fragment p {
+    font-size: 70%;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.reveal H2 {
+    font-size: 90%
+}
+
+H2 {
+    font-size: 90%
+}
